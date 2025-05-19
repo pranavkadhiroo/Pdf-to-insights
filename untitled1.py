@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ZZaquk6jMbw8l0FBapEtkneeElURcEeT
 """
 
-pip install --upgrade openai langchain langchain-community streamlit pymupdf faiss-cpu
 
 import streamlit as st
 import fitz  # PyMuPDF
